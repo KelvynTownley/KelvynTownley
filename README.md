@@ -5,7 +5,9 @@ I'm a student of Applied Mathematics and Computer Science. I'm focused on learni
 I'm...
 
 🏫 studying for a bachelor's degree at the Universidad Nacional Autónoma de México.
+
 🌱 learning Solana.
+
 👯 ready to collaborate in LaTeX advanced projects
 
 I don't know what else to add here😅, so...
