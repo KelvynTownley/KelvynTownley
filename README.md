@@ -4,7 +4,7 @@ I'm a student of Applied Mathematics and Computer Science. I'm focused on learni
 
 I'm...
 
-🏫 studying for a bachelor's degree the Universidad Nacional Autónoma de México.
+🏫 studying for a bachelor's degree at Universidad Nacional Autónoma de México.
 
 🌱 learning Solana.
 
