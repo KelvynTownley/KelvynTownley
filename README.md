@@ -6,7 +6,7 @@ I'm...
 
 🏫 studying for a bachelor's degree at Universidad Nacional Autónoma de México.
 
-🌱 learning Solana.
+🌱 learning Frontend.
 
 👯 ready to collaborate in LaTeX advanced projects
 
